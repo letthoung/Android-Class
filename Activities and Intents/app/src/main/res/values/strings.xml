@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="button1">TEXT ONE</string>
+    <string name="button2">TEXT TWO</string>
+    <string name="button3">TEXT THREE</string>
+    <string name="passage1">TEXT ONE: Do you wish you knew more Bibles verses?
+        Are you always amazed at the people who seem to easily quote the Bible?
+        Do you struggle with the time to memorise Bible verses?
+        Well help is on it’s way. I found 10 short yet powerful verses that
+        you can easily memorise to get you started to becoming brilliant
+        when it comes to Scripture memory!
+    </string>
+    <string name="passage2">TEXT TWO: Yes it can.
+        With so many things to remember-appointments, passwords, birthdays,
+        anniversaries, phone numbers-the list goes on and on- one can wonder
+        if our brains can handle one more thing to remember.
+        The truth is God is so good to us,
+        He created the human brain with an unlimited storage capacity.
+    </string>
+    <string name="passage3">TEXT THREE: Psalm 23: 1 ‘The Lord is my shepherd, I shall not want ‘
+        John 3: 30 ‘ He must increase, but I must decrease.’
+        1 Thessalonians 5: 16 ‘Rejoice always’
+        1 John 4: 19 ‘We love Him because He first loved us’
+        Psalm 56:3 ‘Whenever l’m afraid, l will trust in You’
+    </string>
+</resources>
