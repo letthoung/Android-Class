@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 18 11:39:56 EDT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Tung Le\\Desktop\\Adroid class\\FABulousCards\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
