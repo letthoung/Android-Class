@@ -1,0 +1,4 @@
+#Tue Oct 27 19:30:11 EDT 2020
+base.0=C\:\\Users\\Tung Le\\Desktop\\Adroid class\\AdaptiveLayout\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

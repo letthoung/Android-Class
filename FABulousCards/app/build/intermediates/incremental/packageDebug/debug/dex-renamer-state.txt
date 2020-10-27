@@ -1,4 +1,4 @@
-#Sun Oct 18 11:39:56 EDT 2020
+#Tue Oct 27 17:48:15 EDT 2020
 base.0=C\:\\Users\\Tung Le\\Desktop\\Adroid class\\FABulousCards\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

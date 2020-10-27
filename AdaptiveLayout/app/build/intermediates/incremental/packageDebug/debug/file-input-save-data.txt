@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Oct 27 19:30:11 EDT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Tung Le\\Desktop\\Adroid class\\AdaptiveLayout\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
