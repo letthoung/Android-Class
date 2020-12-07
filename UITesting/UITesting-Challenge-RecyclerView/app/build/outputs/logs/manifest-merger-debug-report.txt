@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0782e9f09200e408c5cfcf02a56c801b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1c859d810a61e8da41125ae107ce84f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d331a88ce2f51feb6f10f323429d6c64\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fe8bac3afb5fb2986c385a45766725c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\493e84b3e47e182883e307f3506ff00f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\72d1c7722c30b9d546b5bb957a99a189\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\96850292d7a4163934d53924bd96e823\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62bf01c5f83a4428f973dece4d8f4401\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\569cf56edf84038b4bf672e339cd71ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2cef1334dde18a3c72a23fcae7e9ac47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5ca71d8e9b6e076cdaf69b51ff442740\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4b2090632b907428bd1082ace99f380e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4b9cce0344243f28667c7df6e26b330\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b73ff88836bb1fa876de4835cecb7760\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\92f789b276591dd0e08bedb37a322940\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\50af82c7b231e0423123eea6a5a7ecf2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5c192e96b3dfe50e69adc4684a8566d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:19:5-47
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:21:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d331a88ce2f51feb6f10f323429d6c64\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d331a88ce2f51feb6f10f323429d6c64\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0782e9f09200e408c5cfcf02a56c801b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0782e9f09200e408c5cfcf02a56c801b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1c859d810a61e8da41125ae107ce84f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1c859d810a61e8da41125ae107ce84f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d331a88ce2f51feb6f10f323429d6c64\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d331a88ce2f51feb6f10f323429d6c64\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fe8bac3afb5fb2986c385a45766725c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fe8bac3afb5fb2986c385a45766725c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\493e84b3e47e182883e307f3506ff00f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\493e84b3e47e182883e307f3506ff00f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\72d1c7722c30b9d546b5bb957a99a189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\72d1c7722c30b9d546b5bb957a99a189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\96850292d7a4163934d53924bd96e823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\96850292d7a4163934d53924bd96e823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62bf01c5f83a4428f973dece4d8f4401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62bf01c5f83a4428f973dece4d8f4401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\569cf56edf84038b4bf672e339cd71ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\569cf56edf84038b4bf672e339cd71ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2cef1334dde18a3c72a23fcae7e9ac47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2cef1334dde18a3c72a23fcae7e9ac47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5ca71d8e9b6e076cdaf69b51ff442740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5ca71d8e9b6e076cdaf69b51ff442740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4b2090632b907428bd1082ace99f380e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4b2090632b907428bd1082ace99f380e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4b9cce0344243f28667c7df6e26b330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4b9cce0344243f28667c7df6e26b330\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b73ff88836bb1fa876de4835cecb7760\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b73ff88836bb1fa876de4835cecb7760\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\92f789b276591dd0e08bedb37a322940\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\92f789b276591dd0e08bedb37a322940\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\50af82c7b231e0423123eea6a5a7ecf2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\50af82c7b231e0423123eea6a5a7ecf2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5c192e96b3dfe50e69adc4684a8566d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tung Le\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5c192e96b3dfe50e69adc4684a8566d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tung Le\Desktop\Adroid class\UITesting\UITesting-Challenge-RecyclerView\app\src\main\AndroidManifest.xml
