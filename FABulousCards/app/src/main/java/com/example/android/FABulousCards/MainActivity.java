@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         mAdapter = new SportsAdapter(this, mSportsData);
         mRecyclerView.setAdapter(mAdapter);
 
-        // Get the data.
+        // Get the data.-
         initializeData();
 
         // Helper class for creating swipe to dismiss and drag and drop

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 07 05:10:37 EST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
