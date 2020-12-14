@@ -1,0 +1,4 @@
+#Sun Dec 13 20:43:20 EST 2020
+base.0=C\:\\Users\\Tung Le\\Desktop\\Adroid class\\HelloToast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
