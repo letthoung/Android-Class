@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\UITesting-TwoActivities\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tung Le\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\5a74f8e1f798d58e54e2825788583553\\res\\values\\values.xml",
@@ -40,25 +40,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "671",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "985"
-                    },
-                    "to": {
-                        "startLines": "533",
-                        "startColumns": "4",
-                        "startOffsets": "49019",
-                        "endLines": "538",
-                        "endColumns": "12",
-                        "endOffsets": "49333"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Tung Le\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ea3e463ba34f43d19566fec49a22a4fc\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,53,54,58,59,60",
@@ -75,23 +56,6 @@
                         "endLines": "142,143,430,431,432,433,434,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,467,468,474,475,479,480,481,487,525,1795,1799,1801,1807,1809,1947,1948",
                         "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "7684,7747,42281,42349,42421,42491,42552,43397,43458,43520,43584,43646,43707,43775,43875,43935,44001,44074,44143,44200,44252,44314,44839,44915,45189,45224,45400,45435,45470,45815,48454,132661,132862,133038,133422,133617,144582,144649"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "20,18,19",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "770,672,719",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "811,714,765"
-                    },
-                    "to": {
-                        "startLines": "118,119,120",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6189,6235,6282",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "6230,6277,6328"
                     }
                 },
                 {
@@ -114,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\UITesting-TwoActivities\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "17,18,21,19,22,20,23",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -128,6 +92,42 @@
                         "startOffsets": "48058,48110,48155,48203,48269,48459,48516",
                         "endColumns": "51,44,47,65,65,56,60",
                         "endOffsets": "48105,48150,48198,48264,48330,48511,48572"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\UITesting-TwoActivities\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "671",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "985"
+                    },
+                    "to": {
+                        "startLines": "533",
+                        "startColumns": "4",
+                        "startOffsets": "49019",
+                        "endLines": "538",
+                        "endColumns": "12",
+                        "endOffsets": "49333"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\UITesting-TwoActivities\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "20,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "770,672,719",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "811,714,765"
+                    },
+                    "to": {
+                        "startLines": "118,119,120",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6189,6235,6282",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "6230,6277,6328"
                     }
                 }
             ]

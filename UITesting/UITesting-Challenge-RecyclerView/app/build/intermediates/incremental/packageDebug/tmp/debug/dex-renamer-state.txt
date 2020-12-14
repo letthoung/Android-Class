@@ -1,4 +1,4 @@
-#Mon Dec 07 14:53:10 EST 2020
+#Mon Dec 07 18:41:21 EST 2020
 base.0=C\:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\UITesting-Challenge-RecyclerView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

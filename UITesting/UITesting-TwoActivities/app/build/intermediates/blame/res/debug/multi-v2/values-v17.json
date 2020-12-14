@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "C:\\Users\\Tung Le\\Desktop\\Adroid class\\UITesting\\UITesting-TwoActivities\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tung Le\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\71bebe97a514da5fef1dc98c72b11d30\\res\\values-v17\\values-v17.xml",
